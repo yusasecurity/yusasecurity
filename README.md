@@ -15,4 +15,4 @@ YUSA reads text the way the model reads it, shows you what was hidden, and stops
 
 No dependencies, no network, no keys. Runs in the browser, in Node, as a CLI, and as an [Aeon](https://www.aeon.fun) skill.
 
-**[yusa](https://github.com/yusasecurity/yusa)** - source · **[live demo](https://yusa-two.vercel.app)**
+**[yusa](https://github.com/yusasecurity/yusa)** - source · **[live demo](https://yusasecurity.xyz)**
