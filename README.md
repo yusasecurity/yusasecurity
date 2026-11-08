@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/yusasecurity/yusa/main/public/brand/yusa-x-banner-1500x500.png" alt="YUSA - what you read is not what your agent reads" width="100%" />
+<img src="https://yusasecurity.xyz/brand/yusa-x-banner-1500x500.png" alt="YUSA - what you read is not what your agent reads" width="100%" />
 
 ### Prompt-injection firewall for AI agents.
 
